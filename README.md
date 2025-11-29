@@ -5,4 +5,4 @@ This repository is used as the central documentation space for the  **WGG Roboti
 
 We store most content in the **GitHub Wiki** of this repository:
 
-Please visit the **[WGG Robotics Documentation Wiki](./wiki)** for all information about our robots, projects, competitions and guides.
+Please visit the **[WGG Robotics Documentation Wiki](https://github.com/wggRobotic/Team-Docs/wiki)** for all information about our robots, projects, competitions and guides.
